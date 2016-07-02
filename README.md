@@ -37,6 +37,9 @@ chmod +x launch.sh
 ./launch.sh 
 **************************
 يطلب رقم خلي رقم للبوت ومبروك عليك البوت 
+
 قناه البوت @llsparkteamll
+
 بوت التواصل @spakteambot
+
 مطور البوت:@kaastro
