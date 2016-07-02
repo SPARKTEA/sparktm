@@ -40,6 +40,6 @@ chmod +x launch.sh
 
 قناه البوت @llsparkteamll
 
-بوت التواصل @spakteambot
+بوت التواصل @sparkteambot
 
 مطور البوت:@kaastro
