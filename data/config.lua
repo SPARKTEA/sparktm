@@ -1,5 +1,5 @@
 do local _ = {
-  about_text = "Teleseed v4\nAn advanced administration bot based on TG-CLI written in Lua\n\nhttps://github.com/SEEDTEAM/TeleSeed\n\nAdmins\n@iwals [Founder]\n@imandaneshi [Developer]\n@POTUS [Developer]\n@seyedan25 [Manager]\n@aRandomStranger [Admin]\n\nSpecial thanks to\nawkward_potato\nSiyanew\ntopkecleon\nVamptacus\n\nOur channels\n@teleseedch [English]\n@iranseed [persian]\n\nOur website \nhttp://teleseed.seedteam.org/\n",
+  about_text = "sparktm v1\nAn advanced administration bot based on TG-CLI written in Lua\n\nhttps://github.com/SPARKTEA/sparktm\n\nAdmins\n@kaastro [Founder]\n@ahq15 [Developer]\n [Developer]\n@seyedan25 [Manager]\n@aRandomStranger [Admin]\n\nSpecial thanks to\nawkward_potato\nSiyanew\ntopkecleon\nVamptacus\n\nOur channels\n@llsparkteamll [persian]\n\nOur website \n",
   enabled_plugins = {
     "addsudo",
     "admin",
@@ -54,7 +54,7 @@ do local _ = {
     data = "data/moderation.json"
   },
   sudo_users = {
-    94465349
+    137348382,
   }
 }
 return _
